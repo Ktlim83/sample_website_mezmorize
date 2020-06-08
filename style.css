@@ -1,0 +1,152 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1160px;
+    height: 1430px;
+    background-color: #1a1a1a;
+    padding: 0 10px 0 10px;
+}
+
+.header img {
+    width: 250px;
+    margin: 20px 0 20px 20px;
+}
+
+.header h3 {
+    display: inline-block;
+    vertical-align: top;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    margin: 30px 20px 0 693px;
+}
+
+.navbar {
+    background-image: linear-gradient(#525252, #252424);
+    padding: 5px 0 5px 0;
+}
+
+.navbar .contact-border {
+    padding: 10px 515px 10px 20px;
+    border-right: 2px solid rgb(53, 53, 53);
+}
+
+.navbar span {
+    font-size: x-small;
+}
+
+.navbar #home-button {
+    color: white;
+}
+
+.navbar li {
+    border-right: 2px solid rgb(53, 53, 53);
+    padding: 10px 20px 10px 20px;
+    color: #a1a3a3;
+    font-family: 'Roboto Condensed', sans-serif;
+    display: inline-block;
+}
+
+.main_image {
+    width: 100%;
+    border-bottom: 5px solid #3b3b3b;
+}
+
+.main-content {
+    margin: 30px 0 20px 0;
+    padding: 0 20px 35px 25px;
+}
+
+.main-content div,
+.footer-content p {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 10px 0 0 0px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+}
+
+.main-content h2,
+.footer-content h2,
+.footer-header h4 {
+    color: #ec7f2b;
+    font-family: 'Patua One', cursive;
+    font-size: 22px;
+    font-weight: 100;
+}
+
+.sub-content {
+    background-image: url(/images/black.jpg);
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 25px 10px 25px 15px;
+}
+
+.sub-content p,
+h1 {
+    width: 750px;
+    margin: 10px 0 0 15px;
+    display: inline-block;
+
+
+}
+
+button {
+    color: rgb(247, 243, 243);
+    background-image: linear-gradient(#f5aa70, #ef802e);
+    font-size: 18px;
+    font-weight: bolder;
+    padding: 13px 35px 13px 35px;
+    margin-left: 170px;
+    border-radius: 10px;
+    border-color: #f0873a;
+    position: relative;
+    top: -35px;
+
+
+}
+
+.footer-content, .footer-header {
+    margin-top: 30px;
+
+}
+
+.footer-content div {
+    display: inline-block;
+    vertical-align: top;
+    height: 350px;
+    color: rgb(253, 253, 253);
+    margin: 0 10px 0 15px;
+
+}
+
+.footer-content img {
+    border: 5px solid #3b3b3b;
+    width: 250px;
+    margin-bottom: 15px;
+}
+
+.footer-header h4 {
+    margin: 5px 0 0 885px;
+    display: inline-block;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.footer-header h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    margin: 0px 5px 5px 20px;
+    display: inline-block;
+}
+
+h5 {
+    color: #666768;
+    font-family: 'Patua One', cursive;
+    margin: 30px 0 0 160px;
+    
+}
